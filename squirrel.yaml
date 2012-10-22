@@ -1,17 +1,22 @@
 app_options:
   com.alfredapp.Alfred:
     ascii_mode: true
+  com.apple.Safari:
+    ascii_mode: true
   com.apple.Terminal:
     ascii_mode: true
-    soft_cursor: true
   com.blacktree.Quicksilver:
     ascii_mode: true
   com.googlecode.iterm2:
     ascii_mode: true
+  com.macromates.TextMate.preview:
+    ascii_mode: true
+  com.sublimetext.2:
+    ascii_mode: true
   org.vim.MacVim:
     ascii_mode: true
-config_version: 0.13.custom.1680131988
-customization: 1680131988
+config_version: 0.13.custom.3073526769
+customization: 3073526769
 preset_color_schemes:
   aqua:
     author: "佛振 <chen.sst@gmail.com>"
@@ -75,6 +80,6 @@ style:
   color_scheme: dark_temple
   corner_radius: 10
   font_face: "儷黑 Pro"
-  font_point: 21
+  font_point: 22
   horizontal: true
-us_keyboard_layout: true
+us_keyboard_layout: false
