@@ -15,8 +15,8 @@ app_options:
     ascii_mode: true
   org.vim.MacVim:
     ascii_mode: true
-config_version: 0.13.custom.3073526769
-customization: 3073526769
+config_version: 0.13.custom.2983545058
+customization: 2983545058
 preset_color_schemes:
   aqua:
     author: "佛振 <chen.sst@gmail.com>"
@@ -81,5 +81,5 @@ style:
   corner_radius: 10
   font_face: "儷黑 Pro"
   font_point: 22
-  horizontal: true
-us_keyboard_layout: false
+  horizontal: false
+us_keyboard_layout: true
