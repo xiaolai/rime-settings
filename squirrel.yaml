@@ -1,0 +1,80 @@
+app_options:
+  com.alfredapp.Alfred:
+    ascii_mode: true
+  com.apple.Terminal:
+    ascii_mode: true
+    soft_cursor: true
+  com.blacktree.Quicksilver:
+    ascii_mode: true
+  com.googlecode.iterm2:
+    ascii_mode: true
+  org.vim.MacVim:
+    ascii_mode: true
+config_version: 0.13.custom.1680131988
+customization: 1680131988
+preset_color_schemes:
+  aqua:
+    author: "佛振 <chen.sst@gmail.com>"
+    back_color: 0xeeeceeee
+    comment_text_color: 0x5a5a5a
+    hilited_candidate_back_color: 0xeefa3a0a
+    hilited_candidate_text_color: 0xffffff
+    name: "碧水／Aqua"
+    text_color: 0x000000
+  azure:
+    author: "佛振 <chen.sst@gmail.com>"
+    back_color: 0xee8b4e01
+    comment_text_color: 0xc69664
+    hilited_candidate_back_color: 0x00000000
+    hilited_candidate_text_color: 0x7ffeff
+    name: "青天／Azure"
+    text_color: 0xffeacc
+  dark_temple:
+    author: "佛振 <chen.sst@gmail.com>, based on ir_black"
+    back_color: 0x222222
+    comment_text_color: 0x606cff
+    hilited_candidate_back_color: 0x10000000
+    hilited_candidate_text_color: 0x92f6da
+    name: "暗堂／Dark Temple"
+    text_color: 0xffdfaa
+  ink:
+    author: "佛振 <chen.sst@gmail.com>"
+    back_color: 0xeeffffff
+    comment_text_color: 0x5a5a5a
+    hilited_candidate_back_color: 0xcc000000
+    hilited_candidate_text_color: 0xffffff
+    name: "墨池／Ink"
+    text_color: 0x000000
+  lost_temple:
+    author: "佛振 <chen.sst@gmail.com>, based on ir_black"
+    back_color: 0xee303030
+    comment_text_color: 0xffccff
+    hilited_candidate_back_color: 0x82e6ca
+    hilited_candidate_text_color: 0x000000
+    name: "孤寺／Lost Temple"
+    text_color: 0xe8f3f6
+  luna:
+    author: "佛振 <chen.sst@gmail.com>"
+    back_color: 0xdd000000
+    comment_text_color: 0xa5a5a5
+    hilited_candidate_back_color: 0x40000000
+    hilited_candidate_text_color: 0x7fffff
+    name: "明月／Luna"
+    text_color: 0xeceeee
+  starcraft:
+    author: "Contralisk <contralisk@gmail.com>, original artwork by Blizzard Entertainment"
+    back_color: 0xee000000
+    comment_text_color: 0xfecb96
+    hilited_candidate_back_color: 0x00000000
+    hilited_candidate_text_color: 0x70ffaf
+    name: "星際我爭霸／StarCraft"
+    text_color: 0x30bb55
+style:
+  border_height: 0
+  border_width: 0
+  color_scheme: dark_temple
+  corner_radius: 10
+  font_face: "儷黑 Pro"
+  font_point: 21
+  horizontal: true
+us_keyboard_layout: true
